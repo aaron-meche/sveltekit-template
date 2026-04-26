@@ -1,5 +1,5 @@
 {
-	"name": "my-app",
+	"name": "aameche-template",
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
@@ -18,7 +18,8 @@
 		"vite": "^7.3.1"
 	},
 	"dependencies": {
-		"@sveltejs/adapter-static": "^3.0.10",
-		"rue-lang": "^1.0.50"
+		"@sveltejs/adapter-node": "^5.5.4",
+		"rue-lang": "*",
+		"rueter-ai": "*"
 	}
 }

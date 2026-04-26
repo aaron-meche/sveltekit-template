@@ -1,19 +1,18 @@
 <!-- created by Aaron Meche -->
 <script>
-    
+
 </script>
 
 <!--  -->
 
 <div class="page">
-    Home Page
+    Empty Page
 </div>
 
 <!--  -->
 
-<style>
+<style lang="rue">
     .page{
-        padding: 2rem;
+        padding: 2rem var(--inline-moat);
     }
-
 </style>
